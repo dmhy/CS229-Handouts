@@ -17,7 +17,7 @@
 *.xdv
 *-converted-to.*
 # these rules might exclude image files for figures etc.
-# *.ps
+*.ps
 # *.eps
 # *.pdf
 
@@ -280,3 +280,4 @@ TSWLatexianTemp*
 
 # Ignore XCS229 Specific pdf files
 cs229-notes1.pdf
+cs229-notes2.pdf
